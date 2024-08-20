@@ -26,7 +26,7 @@ pytz==2024.1
 requests==2.31.0
 six==1.16.0
 telegraph==2.2.0
-TgCrypto==1.2.5
+TgCrypto
 urllib3==2.2.1
 Werkzeug==3.0.3
 yarl==1.9.4
